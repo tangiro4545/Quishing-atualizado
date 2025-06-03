@@ -1,2 +1,1 @@
-# Quishing-atualizado
-Quishing
+# Quising
